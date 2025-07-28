@@ -89,28 +89,39 @@ button:nth-child(3) {
     font-size: 20px;
     background-color: rgb(197, 135, 235);
 }
-
 button:nth-child(4) {
+    font-size: 20px;
+    background-color: rgb(177, 235, 135);
+}
+
+button:nth-child(5) {
     font-size: 20px;
     background-color: skyblue;
 }
 
-button:nth-child(8) {
+button:nth-child(9) {
     font-size: 20px;
     background-color: palegreen;
 }
 
-button:nth-child(12) {
+button:nth-child(13) {
     font-size: 20px;
     background-color: rgb(255, 255, 138);
 }
 
-button:nth-child(16) {
+button:nth-child(17) {
     font-size: 20px;
     background-color: rgb(235, 135, 135);
 }
-
+button:nth-child(18) {
+    font-size: 20px;
+    background-color: rgb(235, 222, 135);
+}
 button:nth-child(20) {
+    font-size: 20px;
+    background-color: rgb(175, 235, 135);
+}
+button:nth-child(21) {
     font-size: 20px;
     background-color: rgb(235, 135, 203);
 }
